@@ -54,14 +54,27 @@ I enjoy creating **end–to–end DevOps pipelines**, experimenting with new clo
 
 ---
 
+---
+
 ## 🐳 My Docker Images
 
 <p align="center"><b>Docker Hub: aakansha113</b></p>
 
 <p align="center">
-  <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="22" /> nginx-custom<br>
-  <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="22" /> python-app<br>
-  <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="22" /> devops-tools
+  <a href="https://hub.docker.com/r/aakansha113/nginx-custom" target="_blank">
+    <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="22" />
+    nginx-custom
+  </a><br>
+
+  <a href="https://hub.docker.com/r/aakansha113/python-app" target="_blank">
+    <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="22" />
+    python-app
+  </a><br>
+
+  <a href="https://hub.docker.com/r/aakansha113/devops-tools" target="_blank">
+    <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="22" />
+    devops-tools
+  </a>
 </p>
 
 <p align="center">
@@ -69,10 +82,6 @@ I enjoy creating **end–to–end DevOps pipelines**, experimenting with new clo
 </p>
 
 ---
-
-
----
-
 
 ## 📊 GitHub Stats  
 <p align="center">
