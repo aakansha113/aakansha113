@@ -31,20 +31,31 @@ I enjoy creating **end–to–end DevOps pipelines**, experimenting with new clo
 
 ## 🛠️ Tech Stack  
 
+## 🛠️ Tech Stack  
+
 ### 🔹 Languages & Frameworks
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,html,css" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c" height="50" />
 </p>
+
+---
 
 ### 🔹 Cloud & DevOps Tools
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,git,github,gitlab,terraform,ansible" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,terraform,kubernetes,git,github,jenkins,linux" height="50" />
 </p>
 
+---
+
 ### 🔹 Databases & Monitoring
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,grafana,prometheus" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=grafana,prometheus,mysql,mongodb" height="50" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS%20RDS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" />
+</p>
+
 
 ---
 
