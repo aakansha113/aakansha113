@@ -114,3 +114,8 @@ I enjoy creating **end–to–end DevOps pipelines**, experimenting with new clo
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aakansha113&label=Profile+Views&color=FF8C00&style=flat-square" />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aakansha113&label=Profile+Views&color=00E5FF&style=plastic" />
+</p>
+
