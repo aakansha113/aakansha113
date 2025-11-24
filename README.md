@@ -96,6 +96,12 @@ I enjoy creating **end–to–end DevOps pipelines**, experimenting with new clo
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=1E90FF&center=true&vCenter=true&width=435&lines=Think.+Build.+Deploy." alt="Typing SVG" />
 </h2>
 
+<h2 align="center">
+  <span style="background: linear-gradient(90deg, #1e90ff, #00b7ff); -webkit-background-clip: text; color: transparent;">
+    <i>Think • Build • Deploy</i>
+  </span>
+</h2>
+
 
 
 <p align="left">
