@@ -81,50 +81,27 @@ I enjoy creating **end–to–end DevOps pipelines**, experimenting with new clo
 
 ---
 
-## 🌐 Connect With Me  
-
-<p align="center">
+<p align="center" style="margin-top: 30px;">
 
   <!-- Gmail -->
-  <a href="mailto:aakanshahujare113@gmail.com" style="
-    text-decoration:none;
-    margin: 10px;
-    padding: 10px 16px;
-    border-radius: 12px;
-    background: #0d1117;
-    display: inline-block;
-    transition: 0.3s;
-  " onmouseover="this.style.transform='scale(1.12)'; this.style.boxShadow='0px 0px 10px #1E90FF';"
-     onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="38"/>
-  </a>
-
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/aakansha-hujare" style="
-    text-decoration:none;
-    margin: 10px;
-    padding: 10px 16px;
-    border-radius: 12px;
-    background: #0d1117;
-    display: inline-block;
-    transition: 0.3s;
-  " onmouseover="this.style.transform='scale(1.12)'; this.style.boxShadow='0px 0px 10px #1E90FF';"
-     onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="38"/>
+  <a href="mailto:aakanshahujare@gmail.com" style="text-decoration: none; margin: 0 25px;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" 
+         width="55" height="55" alt="Gmail"/>
+    <div align="center" style="font-size: 16px; margin-top: 8px;">Gmail</div>
   </a>
 
   <!-- GitHub -->
-  <a href="https://github.com/aakansha113" style="
-    text-decoration:none;
-    margin: 10px;
-    padding: 10px 16px;
-    border-radius: 12px;
-    background: #0d1117;
-    display: inline-block;
-    transition: 0.3s;
-  " onmouseover="this.style.transform='scale(1.12)'; this.style.boxShadow='0px 0px 10px #1E90FF';"
-     onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="38"/>
+  <a href="https://github.com/aakansha113" style="text-decoration: none; margin: 0 25px;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" 
+         width="55" height="55" alt="GitHub"/>
+    <div align="center" style="font-size: 16px; margin-top: 8px;">GitHub</div>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/aakansha-hujare/" style="text-decoration: none; margin: 0 25px;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" 
+         width="55" height="55" alt="LinkedIn"/>
+    <div align="center" style="font-size: 16px; margin-top: 8px;">LinkedIn</div>
   </a>
 
 </p>
