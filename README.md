@@ -52,20 +52,24 @@ I enjoy creating **end–to–end DevOps pipelines**, experimenting with new clo
 
 ---
 
+---
+
 ## 🐳 My Docker Images
 
-<p align="left">
-  <a href="https://hub.docker.com/u/aakansha113" target="_blank">
-    <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="70" alt="Docker Hub"/>
-  </a>
+<p align="center"><b>Docker Hub: aakansha113</b></p>
+
+<p align="center">
+  <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="22" /> nginx-custom<br>
+  <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="22" /> python-app<br>
+  <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="22" /> devops-tools
 </p>
 
-<p align="left">
-  Some of my published Docker images:<br>
-  <b>nginx-custom • python-app • devops-tools</b>
-  <br><br>
-  🔗 <a href="https://hub.docker.com/u/aakansha113"><b>View all on Docker Hub</b></a>
+<p align="center">
+  🔗 <a href="https://hub.docker.com/u/aakansha113"><b>View All</b></a>
 </p>
+
+---
+
 
 ---
 
