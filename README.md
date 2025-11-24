@@ -124,6 +124,11 @@ I enjoy creating **end–to–end DevOps pipelines**, experimenting with new clo
 
 
 
+## 🌐 Connect With Me  
+
+| [![Gmail](https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico)](mailto:aakanshahujare@gmail.com) | [![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://linkedin.com/in/aakansha-hujare) | [![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/aakansha113) |
+|:-:|:-:|:-:|
+| [Gmail](mailto:aakanshahujare@gmail.com) | [LinkedIn](https://linkedin.com/in/aakansha-hujare) | [GitHub](https://github.com/aakansha113) |
 
 
 
