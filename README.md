@@ -87,38 +87,15 @@ I enjoy creating **end–to–end DevOps pipelines**, experimenting with new clo
   <tr>
     <td align="center" width="150">
       <a href="mailto:aakanshahujare113@gmail.com">
-       <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Gmail_Logo.png" width="60" alt="Gmail"/>
-         <sub><b>Email</b></sub>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Gmail_Logo.png" width="60" alt="Gmail"/>
+
+
+)
+<sub><b>Email</b></sub>
       </a>
     </td>
 
    <td align="center" width="150">
-      <a href="https://linkedin.com/in/aakansha-hujare">
-        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="60" alt="LinkedIn"/><br>
-        <sub><b>LinkedIn</b></sub>
-      </a>
-    </td>
-
-  <td align="center" width="150">
-      <a href="https://github.com/aakansha113">
-        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="60" alt="GitHub"/><br>
-        <sub><b>GitHub</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
-## 🌐 Connect With Me  
-
-<table align="center">
-  <tr>
-    <td align="center" width="150">
-      <a href="mailto:aakanshahujare113@gmail.com">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="60" alt="Gmail"/><br>
-        <sub><b>Gmail</b></sub>
-      </a>
-    </td>
-
-  <td align="center" width="150">
       <a href="https://linkedin.com/in/aakansha-hujare">
         <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="60" alt="LinkedIn"/><br>
         <sub><b>LinkedIn</b></sub>
