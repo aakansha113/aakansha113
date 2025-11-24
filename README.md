@@ -91,10 +91,10 @@ I enjoy creating **end–to–end DevOps pipelines**, experimenting with new clo
 
 ---
 
-<h2 align="center"><i>Think ▸ Build  Deploy.</i></h2>
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=1E90FF&center=true&vCenter=true&width=435&lines=Think ▸ +Build ▸ +Deploy." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=1E90FF&center=true&vCenter=true&width=435&lines=Think▸+Build▸+Deploy." alt="Typing SVG" />
 </h2>
+
 
 
 
