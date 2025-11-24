@@ -27,9 +27,7 @@ I enjoy creating **end–to–end DevOps pipelines**, experimenting with new clo
 </p>
  
 
----
-
-## 🛠️ Tech Stack  
+--- 
 
 ## 🛠️ Tech Stack  
 
