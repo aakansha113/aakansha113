@@ -7,12 +7,23 @@
 ---
 
 ## 🚀 About Me  
-I'm a **DevOps Engineer** from 🇮🇳 India, passionate about automation, cloud-native architecture, and building scalable CI/CD systems.
 
-- 🔭 Currently working on **Docker, Kubernetes, Terraform, GitHub Actions & Cloud Projects**
-- 🌱 Learning **AI + Cloud + DevSecOps**
-- 👯 Open to collaborate on **DevOps, Cloud & Open Source Projects**
-- 💬 Ask me about **AWS, Docker, Kubernetes, Terraform, CI/CD, DevOps Tools**
+I'm a passionate **DevOps Engineer** focused on building reliable infrastructure, automating workflows, and creating smooth deployment pipelines.  
+
+I specialize in designing and maintaining **cloud-native, containerized, and highly available systems** using tools like Docker, Kubernetes, Terraform, and AWS.  
+
+My work revolves around:
+
+- ⚙️ **Infrastructure Automation** (Terraform)  
+- ☁️ **Cloud Platforms** (AWS)  
+- 🐳 **Containerization & Orchestration** (Docker, Kubernetes)  
+- 🔄 **CI/CD Pipelines** (Jenkins)  
+- 📦 **Monitoring & Logging** (Prometheus, Grafana)  
+- 🔐 **Secure & Scalable Deployment Architectures**  
+
+I enjoy creating **end–to–end DevOps pipelines**, experimenting with new cloud tools, and building projects that improve performance, automation, and developer productivity.
+
+                                                                 Always learning, always improving. ✨  
 
 ---
 
