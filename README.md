@@ -52,11 +52,6 @@ I enjoy creating **end–to–end DevOps pipelines**, experimenting with new clo
   <img src="https://skillicons.dev/icons?i=grafana,prometheus,mysql,mongodb" height="50" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS%20RDS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" />
-</p>
-
-
 ---
 
 ## 📊 GitHub Stats  
