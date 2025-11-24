@@ -96,7 +96,7 @@ I enjoy creating **end–to–end DevOps pipelines**, experimenting with new clo
 </h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aakansha113&label=Profile+Views&color=1B3A57&style=flat-round" />
+  <img src="https://img.shields.io/badge/Profile_Views-●●●-1B3A57?style=for-the-badge&labelColor=0D1117" />
 </p>
 
 
