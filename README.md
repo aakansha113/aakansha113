@@ -150,29 +150,33 @@ I enjoy creating **end–to–end DevOps pipelines**, experimenting with new clo
   </a>
 </p>
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me  
 
-<p align="center" style="display: flex; justify-content: center; gap: 60px;">
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <a href="mailto:aakanshahujare113@gmail.com">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="60" alt="Email"/><br>
+        <sub><b>Email</b></sub>
+      </a>
+    </td>
 
-  <a href="mailto:aakanshahujare113@gmail.com" style="text-align: center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" 
-         width="55" alt="Gmail"/><br>
-    <span>Email</span>
-  </a>
+   <td align="center" width="150">
+      <a href="https://linkedin.com/in/aakansha-hujare">
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="60" alt="LinkedIn"/><br>
+        <sub><b>LinkedIn</b></sub>
+      </a>
+    </td>
 
-  <a href="https://linkedin.com/in/aakansha-hujare" style="text-align: center;">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" 
-         width="55" alt="LinkedIn"/><br>
-    <span>LinkedIn</span>
-  </a>
+  <td align="center" width="150">
+      <a href="https://github.com/aakansha113">
+        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="60" alt="GitHub"/><br>
+        <sub><b>GitHub</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
-  <a href="https://github.com/aakansha113" style="text-align: center;">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" 
-         width="55" alt="GitHub"/><br>
-    <span>GitHub</span>
-  </a>
-
-</p>
 
 
 ---
