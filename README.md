@@ -80,75 +80,6 @@ I enjoy creating **end–to–end DevOps pipelines**, experimenting with new clo
 </p>
 
 ---
-## 🌐 Connect With Me  
-
-<p align="center">
-
-  <!-- Gmail -->
-  <a href="mailto:aakanshahujare113@gmail.com" style="
-    text-decoration:none;
-    margin: 10px;
-    padding: 10px 16px;
-    border-radius: 12px;
-    background: #0d1117;
-    display: inline-block;
-    transition: 0.3s;
-  " onmouseover="this.style.transform='scale(1.12)'; this.style.boxShadow='0px 0px 10px #1E90FF';"
-     onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="38"/>
-  </a>
-
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/aakansha-hujare" style="
-    text-decoration:none;
-    margin: 10px;
-    padding: 10px 16px;
-    border-radius: 12px;
-    background: #0d1117;
-    display: inline-block;
-    transition: 0.3s;
-  " onmouseover="this.style.transform='scale(1.12)'; this.style.boxShadow='0px 0px 10px #1E90FF';"
-     onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="38"/>
-  </a>
-
-  <!-- GitHub -->
-  <a href="https://github.com/aakansha113" style="
-    text-decoration:none;
-    margin: 10px;
-    padding: 10px 16px;
-    border-radius: 12px;
-    background: #0d1117;
-    display: inline-block;
-    transition: 0.3s;
-  " onmouseover="this.style.transform='scale(1.12)'; this.style.boxShadow='0px 0px 10px #1E90FF';"
-     onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="38"/>
-  </a>
-
-</p>
-
-<h2 align="center">🌐 Connect With Me</h2>
-
-<p align="center">
-  <!-- Gmail -->
-  <a href="mailto:aakanshahujare113@gmail.com" style="text-decoration: none; margin: 0 20px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="45px" /><br>
-    <sub><b>Email</b></sub>
-  </a>
-
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/aakansha-hujare" style="text-decoration: none; margin: 0 20px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="45px" /><br>
-    <sub><b>LinkedIn</b></sub>
-  </a>
-
-  <!-- GitHub -->
-  <a href="https://github.com/aakansha113" style="text-decoration: none; margin: 0 20px;">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="45px" /><br>
-    <sub><b>GitHub</b></sub>
-  </a>
-</p>
 
 ## 🌐 Connect With Me  
 
@@ -178,6 +109,32 @@ I enjoy creating **end–to–end DevOps pipelines**, experimenting with new clo
 </table>
 
 
+## 🌐 Connect With Me  
+
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <a href="mailto:aakanshahujare113@gmail.com">
+        <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="55"/><br>
+        <sub><b>Email</b></sub>
+      </a>
+    </td>
+
+  <td align="center" width="150">
+      <a href="https://linkedin.com/in/aakansha-hujare">
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="55"/><br>
+        <sub><b>LinkedIn</b></sub>
+      </a>
+    </td>
+
+  <td align="center" width="150">
+      <a href="https://github.com/aakansha113">
+        <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="55"/><br>
+        <sub><b>GitHub</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
