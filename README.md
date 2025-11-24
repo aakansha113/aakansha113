@@ -42,13 +42,6 @@ I enjoy creating **end–to–end DevOps pipelines**, experimenting with new clo
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,terraform,kubernetes,git,github,jenkins,linux" height="50" />
  </p>
- <p align="center">
-  <a href="https://hub.docker.com/u/aakansha113" target="_blank">
-    <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="80" alt="Docker Hub"/>
-  </a>
-  <br>
-  <sub><b>Docker Hub</b></sub>
-</p>
 
 ---
 
@@ -61,13 +54,13 @@ I enjoy creating **end–to–end DevOps pipelines**, experimenting with new clo
 
 ## 🐳 My Docker Images
 
-<p align="center">
+<p align="left">
   <a href="https://hub.docker.com/u/aakansha113" target="_blank">
     <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="70" alt="Docker Hub"/>
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   Some of my published Docker images:<br>
   <b>nginx-custom • python-app • devops-tools</b>
   <br><br>
