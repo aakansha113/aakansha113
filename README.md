@@ -83,7 +83,7 @@ I enjoy creating **end–to–end DevOps pipelines**, experimenting with new clo
 
 ## 🌐 Connect With Me  
 
-<table align="center">
+align="center"
   <tr>
     <td align="center" width="150">
       <a href="mailto:aakanshahujare113@gmail.com">
@@ -106,34 +106,6 @@ I enjoy creating **end–to–end DevOps pipelines**, experimenting with new clo
       </a>
     </td>
   </tr>
-</table>
-
-## 🌐 Connect With Me  
-
-<table align="center" border="0" style="border:none;">
-  <tr>
-    <td align="center" width="150" style="border:none;">
-      <a href="mailto:aakanshahujare113@gmail.com">
-        <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="55"/><br>
-        <sub><b>Email</b></sub>
-      </a>
-    </td>
-
-  <td align="center" width="150" style="border:none;">
-      <a href="https://linkedin.com/in/aakansha-hujare">
-        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="55"/><br>
-        <sub><b>LinkedIn</b></sub>
-      </a>
-    </td>
-
-  <td align="center" width="150" style="border:none;">
-      <a href="https://github.com/aakansha113">
-        <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="55"/><br>
-        <sub><b>GitHub</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
 
 
 ---
