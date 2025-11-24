@@ -87,7 +87,7 @@ I enjoy creating **end–to–end DevOps pipelines**, experimenting with new clo
   <tr>
     <td align="center" width="150">
       <a href="mailto:aakanshahujare@gmail.com">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Google_Icons_Gmail.svg" width="60" alt="Gmail"/><br>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" width="60" alt="Gmail"/><br>
         <sub><b>Gmail</b></sub>
       </a>
     </td>
