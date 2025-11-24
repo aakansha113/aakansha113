@@ -1,6 +1,6 @@
-<h1 align="center">Hello Dosto 👋, I'm Aakansha</h1>
+<h1 align="center">Hello 👋, I'm Aakansha</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=1E90FF&center=true&vCenter=true&width=435&lines=DevOps+Engineer;Cloud+Enthusiast;Platform+Engineering+Learner;Building+Automations+%26+Cloud+Infra;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=1E90FF&center=true&vCenter=true&width=435&lines=DevOps+Engineer+Building+Automations+%26+Cloud+Infra;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
 ---
@@ -12,7 +12,6 @@ I'm a **DevOps Engineer** from 🇮🇳 India, passionate about automation, clou
 - 🌱 Learning **AI + Cloud + DevSecOps**
 - 👯 Open to collaborate on **DevOps, Cloud & Open Source Projects**
 - 💬 Ask me about **AWS, Docker, Kubernetes, Terraform, CI/CD, DevOps Tools**
-- ⚡ Fun fact: I love teaching & simplifying tough DevOps concepts
 
 ---
 
