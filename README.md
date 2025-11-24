@@ -56,7 +56,7 @@ I enjoy creating **end–to–end DevOps pipelines**, experimenting with new clo
 
 **Docker Hub: aakansha113**
 
-- [portfolio](https://hub.docker.com/r/aakansha113/portfolio)
+- [Portfolio](https://hub.docker.com/r/aakansha113/portfolio)
 - [ML-Model](https://hub.docker.com/r/aakansha113/dockerized-ml-model)
 - [To-Do-Web-app](https://hub.docker.com/r/aakansha113/todo-docker-webapp)
 
