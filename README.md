@@ -96,26 +96,7 @@ I enjoy creating **end–to–end DevOps pipelines**, experimenting with new clo
 </h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aakansha113&label=Profile+Views&color=1E90FF&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=aakansha113&label=Profile+Views&color=2F4F4F&style=flat-round" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aakansha113&label=Profile+Views&color=8A2BE2&style=flat-round" />
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aakansha113&label=Profile+Views&color=FF69B4&style=for-the-badge" />
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aakansha113&label=Profile+Views&color=00E5FF&style=plastic" />
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aakansha113&label=Profile+Views&color=39FF14&style=flat-round" />
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aakansha113&label=Profile+Views&color=FF8C00&style=flat-square" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aakansha113&label=Profile+Views&color=00E5FF&style=plastic" />
-</p>
 
