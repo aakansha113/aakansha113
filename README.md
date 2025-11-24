@@ -126,7 +126,7 @@ I enjoy creating **end–to–end DevOps pipelines**, experimenting with new clo
   <tr>
 
     <!-- Gmail -->
-    <td align="center" width="150" style="border:none;">
+<td align="center" width="150" style="border:none;">
       <a href="mailto:aakanshahujare113@gmail.com">
         <img class="connect-icon"
              src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Google_Icons_Gmail.svg"
@@ -136,7 +136,7 @@ I enjoy creating **end–to–end DevOps pipelines**, experimenting with new clo
     </td>
 
     <!-- LinkedIn -->
-    <td align="center" width="150" style="border:none;">
+ <td align="center" width="150" style="border:none;">
       <a href="https://linkedin.com/in/aakansha-hujare">
         <img class="connect-icon"
              src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
@@ -146,7 +146,8 @@ I enjoy creating **end–to–end DevOps pipelines**, experimenting with new clo
     </td>
 
     <!-- GitHub -->
-    <td align="center" width="150" style="border:none;">
+    
+<td align="center" width="150" style="border:none;">
       <a href="https://github.com/aakansha113">
         <img class="connect-icon"
              src="https://cdn-icons-png.flaticon.com/512/25/25231.png"
