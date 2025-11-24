@@ -41,7 +41,7 @@ I enjoy creating **end–to–end DevOps pipelines**, experimenting with new clo
 ### 🔹 Cloud & DevOps Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,terraform,kubernetes,git,github,jenkins,linux" height="50" />
-  <a href="https://hub.docker.com/u/your-username" target="_blank">
+  <a href="https://hub.docker.com/u/aakansha113" target="_blank">
   <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="80" alt="Docker Hub"/>
 </a>
 
