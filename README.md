@@ -83,10 +83,54 @@ I enjoy creating **end–to–end DevOps pipelines**, experimenting with new clo
 
 ## 🌐 Connect With Me  
 
-<p>
-<a href="mailto:aakanshahujare@gmail.com">📧 Email</a> • 
-<a href="https://www.linkedin.com/in/aakansha-hujare-3bb397229/">LinkedIn</a> • 
-<a href="https://github.com/aakansha113">GitHub</a>
+<p align="center">
+  <!-- Gmail -->
+  <a href="mailto:aakanshahujare113@gmail.com" style="
+    text-decoration:none;
+    margin: 10px;
+    padding: 12px 18px;
+    border-radius: 12px;
+    background: #0d1117;
+    display: inline-block;
+    transition: 0.3s;
+  " onmouseover="this.style.transform='scale(1.08)'; this.style.boxShadow='0px 0px 12px #1E90FF';"
+     onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';">
+    <img src="https://img.icons8.com/ios-filled/50/1E90FF/gmail.png" width="38"/>
+    <br>
+    <sub style="color:#1E90FF; font-size:14px;">Email</sub>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/aakansha-hujare" style="
+    text-decoration:none;
+    margin: 10px;
+    padding: 12px 18px;
+    border-radius: 12px;
+    background: #0d1117;
+    display: inline-block;
+    transition: 0.3s;
+  " onmouseover="this.style.transform='scale(1.08)'; this.style.boxShadow='0px 0px 12px #1E90FF';"
+     onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';">
+    <img src="https://img.icons8.com/ios-filled/50/1E90FF/linkedin.png" width="38"/>
+    <br>
+    <sub style="color:#1E90FF; font-size:14px;">LinkedIn</sub>
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/aakansha113" style="
+    text-decoration:none;
+    margin: 10px;
+    padding: 12px 18px;
+    border-radius: 12px;
+    background: #0d1117;
+    display: inline-block;
+    transition: 0.3s;
+  " onmouseover="this.style.transform='scale(1.08)'; this.style.boxShadow='0px 0px 12px #1E90FF';"
+     onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';">
+    <img src="https://img.icons8.com/ios-glyphs/50/1E90FF/github.png" width="38"/>
+    <br>
+    <sub style="color:#1E90FF; font-size:14px;">GitHub</sub>
+  </a>
 </p>
 
 ---
