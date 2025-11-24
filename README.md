@@ -81,30 +81,34 @@ I enjoy creating **end–to–end DevOps pipelines**, experimenting with new clo
 
 ---
 
-<p align="center" style="margin-top: 30px;">
+<p align="center">
 
   <!-- Gmail -->
-  <a href="mailto:aakanshahujare@gmail.com" style="text-decoration: none; margin: 0 25px;">
+  <a href="mailto:aakanshahujare@gmail.com" style="text-decoration: none; margin: 0 40px;">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" 
-         width="55" height="55" alt="Gmail"/>
-    <div align="center" style="font-size: 16px; margin-top: 8px;">Gmail</div>
+         width="60" height="60" alt="Gmail"/>
+    <br/>
+    <sub><b>Gmail</b></sub>
   </a>
 
   <!-- GitHub -->
-  <a href="https://github.com/aakansha113" style="text-decoration: none; margin: 0 25px;">
+  <a href="https://github.com/aakansha113" style="text-decoration: none; margin: 0 40px;">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" 
-         width="55" height="55" alt="GitHub"/>
-    <div align="center" style="font-size: 16px; margin-top: 8px;">GitHub</div>
+         width="60" height="60" alt="GitHub"/>
+    <br/>
+    <sub><b>GitHub</b></sub>
   </a>
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/aakansha-hujare/" style="text-decoration: none; margin: 0 25px;">
+  <a href="https://www.linkedin.com/in/aakansha-hujare/" style="text-decoration: none; margin: 0 40px;">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" 
-         width="55" height="55" alt="LinkedIn"/>
-    <div align="center" style="font-size: 16px; margin-top: 8px;">LinkedIn</div>
+         width="60" height="60" alt="LinkedIn"/>
+    <br/>
+    <sub><b>LinkedIn</b></sub>
   </a>
 
 </p>
+
 
 ---
 
