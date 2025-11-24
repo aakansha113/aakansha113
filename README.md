@@ -84,14 +84,19 @@ I enjoy creating **end–to–end DevOps pipelines**, experimenting with new clo
 ## 🌐 Connect With Me  
 
 <p>
-<a href="mailto:aakanshahujare113@gmail.com">📧 Email</a> • 
-<a href="https://linkedin.com/in/aakansha-hujare">LinkedIn</a> • 
+<a href="mailto:aakanshahujare@gmail.com">📧 Email</a> • 
+<a href="https://www.linkedin.com/in/aakansha-hujare-3bb397229/">LinkedIn</a> • 
 <a href="https://github.com/aakansha113">GitHub</a>
 </p>
 
 ---
 
-## 💡 *"Building the future, one deployment at a time"*  
+<h2 align="center"><i>Think ▸ Build ▸ Deploy.</i></h2>
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=1E90FF&center=true&vCenter=true&width=435&lines=Think.+Build.+Deploy." alt="Typing SVG" />
+</h2>
+
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=aakansha113&label=Profile%20views&color=1E90FF&style=flat" />
