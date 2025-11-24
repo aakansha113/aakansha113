@@ -83,15 +83,12 @@ I enjoy creating **end–to–end DevOps pipelines**, experimenting with new clo
 
 ## 🌐 Connect With Me  
 
-<table align="center"
+<table align="center">
   <tr>
     <td align="center" width="150">
       <a href="mailto:aakanshahujare113@gmail.com">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Gmail_Logo.png" width="60" alt="Gmail"/>
-
-
-)
-<sub><b>Email</b></sub>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="60" alt="Gmail"/><br>
+        <sub><b>Gmail</b></sub>
       </a>
     </td>
 
