@@ -108,6 +108,7 @@ I enjoy creating **end–to–end DevOps pipelines**, experimenting with new clo
     </td>
   </tr>
 </table>
+
 ---
 
 <h2 align="center">
