@@ -85,9 +85,10 @@ I enjoy creating **end–to–end DevOps pipelines**, experimenting with new clo
 
 <table align="center">
   <tr>
-    <td align="center" width="150">
+
+  <td align="center" width="150">
       <a href="mailto:aakanshahujare@gmail.com">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_(2020).png" width="60" alt="Gmail"/><br>
+        <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" width="60" alt="Gmail"/><br>
         <sub><b>Gmail</b></sub>
       </a>
     </td>
