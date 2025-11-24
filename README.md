@@ -109,6 +109,54 @@ I enjoy creating **end–to–end DevOps pipelines**, experimenting with new clo
 </table>
 
 ---
+## 🌐 Connect With Me  
+
+<style>
+.connect-icon {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.connect-icon:hover {
+  transform: scale(1.15);
+  box-shadow: 0px 0px 15px rgba(30, 144, 255, 0.8);
+  border-radius: 10px;
+}
+</style>
+
+<table align="center" border="0" style="border:none;">
+  <tr>
+
+    <!-- Gmail -->
+    <td align="center" width="150" style="border:none;">
+      <a href="mailto:aakanshahujare113@gmail.com">
+        <img class="connect-icon"
+             src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Google_Icons_Gmail.svg"
+             width="60"/><br>
+        <sub><b>Gmail</b></sub>
+      </a>
+    </td>
+
+    <!-- LinkedIn -->
+    <td align="center" width="150" style="border:none;">
+      <a href="https://linkedin.com/in/aakansha-hujare">
+        <img class="connect-icon"
+             src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
+             width="60"/><br>
+        <sub><b>LinkedIn</b></sub>
+      </a>
+    </td>
+
+    <!-- GitHub -->
+    <td align="center" width="150" style="border:none;">
+      <a href="https://github.com/aakansha113">
+        <img class="connect-icon"
+             src="https://cdn-icons-png.flaticon.com/512/25/25231.png"
+             width="60"/><br>
+        <sub><b>GitHub</b></sub>
+      </a>
+    </td>
+
+  </tr>
+</table>
 
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=1E90FF&center=true&vCenter=true&width=500&lines=Think+%E2%86%92+Build+%E2%86%92+Automate+%E2%86%92+Deploy" alt="Typing SVG" />
