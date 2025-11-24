@@ -150,6 +150,32 @@ I enjoy creating **end–to–end DevOps pipelines**, experimenting with new clo
   </a>
 </p>
 
+## 🌐 Connect With Me
+
+<p align="center">
+
+  <!-- Email -->
+  <a href="mailto:aakanshahujare113@gmail.com" style="margin: 0 30px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" 
+         width="60" alt="Gmail"/><br>
+    <sub>Email</sub>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/aakansha-hujare" style="margin: 0 30px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" 
+         width="60" alt="LinkedIn"/><br>
+    <sub>LinkedIn</sub>
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/aakansha113" style="margin: 0 30px;">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" 
+         width="60" alt="GitHub"/><br>
+    <sub>GitHub</sub>
+  </a>
+
+</p>
 
 
 ---
