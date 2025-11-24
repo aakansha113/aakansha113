@@ -151,12 +151,7 @@ I enjoy creating **end–to–end DevOps pipelines**, experimenting with new clo
 </table>
 
 
-## 🌐 Connect With Me
 
-[![Gmail](https://upload.wikimedia.org/wikipedia/commons/5/5f/Google_Icons_Gmail.svg)](mailto:aakanshahujare@gmail.com)  
-[![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/yourusername)  
-[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://linkedin.com/in/yourusername)  
-[![Twitter](https://cdn-icons-png.flaticon.com/512/733/733579.png)](https://twitter.com/yourusername)
 
 
 
