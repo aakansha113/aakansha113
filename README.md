@@ -50,38 +50,22 @@ I enjoy creating **end–to–end DevOps pipelines**, experimenting with new clo
   <img src="https://skillicons.dev/icons?i=grafana,prometheus,mysql,mongodb" height="50" />
 </p>
 
----
 
----
 
 ---
 
 ## 🐳 My Docker Images
 
-<p align="center"><b>Docker Hub: aakansha113</b></p>
+**Docker Hub: aakansha113**
 
-<p align="center">
-  <a href="https://hub.docker.com/r/aakansha113/nginx-custom" target="_blank">
-    <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="22" />
-    nginx-custom
-  </a><br>
+- [nginx-custom](https://hub.docker.com/r/aakansha113/nginx-custom)
+- [python-app](https://hub.docker.com/r/aakansha113/python-app)
+- [devops-tools](https://hub.docker.com/r/aakansha113/devops-tools)
 
-  <a href="https://hub.docker.com/r/aakansha113/python-app" target="_blank">
-    <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="22" />
-    python-app
-  </a><br>
-
-  <a href="https://hub.docker.com/r/aakansha113/devops-tools" target="_blank">
-    <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="22" />
-    devops-tools
-  </a>
-</p>
-
-<p align="center">
-  🔗 <a href="https://hub.docker.com/u/aakansha113"><b>View All</b></a>
-</p>
+🔗 **View all images:** https://hub.docker.com/u/aakansha113
 
 ---
+
 
 ## 📊 GitHub Stats  
 <p align="center">
