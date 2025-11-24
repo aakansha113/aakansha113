@@ -83,7 +83,7 @@ I enjoy creating **end–to–end DevOps pipelines**, experimenting with new clo
 
 ## 🌐 Connect With Me  
 
-align="center"
+<table align="center"
   <tr>
     <td align="center" width="150">
       <a href="mailto:aakanshahujare113@gmail.com">
@@ -106,7 +106,7 @@ align="center"
       </a>
     </td>
   </tr>
-
+</table>
 
 ---
 
