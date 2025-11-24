@@ -125,23 +125,9 @@ I enjoy creating **end–to–end DevOps pipelines**, experimenting with new clo
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="mailto:aakanshahujare@gmail.com" style="text-decoration: none;">
-    <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" width="60" height="60" style="vertical-align: middle;" alt="Gmail"/><br>
-    <sub><b>Gmail</b></sub>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/aakansha-hujare" style="text-decoration: none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="60" height="60" style="vertical-align: middle;" alt="LinkedIn"/><br>
-    <sub><b>LinkedIn</b></sub>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/aakansha113" style="text-decoration: none;">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="60" height="60" style="vertical-align: middle;" alt="GitHub"/><br>
-    <sub><b>GitHub</b></sub>
-  </a>
-</p>
-
-
-
+| [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com) | [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername) |
+|:-:|:-:|:-:|
+| [Gmail](mailto:your.email@example.com) | [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername) |
 
 
 
