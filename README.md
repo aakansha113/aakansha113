@@ -134,14 +134,14 @@ I enjoy creating **end–to–end DevOps pipelines**, experimenting with new clo
       </a>
     </td>
 
-    <td align="center" width="150" style="border:none; padding:0;">
+  <td align="center" width="150" style="border:none; padding:0;">
       <a href="https://linkedin.com/in/aakansha-hujare">
         <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="60" alt="LinkedIn" style="border:none; outline:none; display:block;" /><br>
         <sub><b>LinkedIn</b></sub>
       </a>
     </td>
 
-    <td align="center" width="150" style="border:none; padding:0;">
+  <td align="center" width="150" style="border:none; padding:0;">
       <a href="https://github.com/aakansha113">
         <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="60" alt="GitHub" style="border:none; outline:none; display:block;" /><br>
         <sub><b>GitHub</b></sub>
