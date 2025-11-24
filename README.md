@@ -23,9 +23,9 @@ My work revolves around:
 
 I enjoy creating **end–to–end DevOps pipelines**, experimenting with new cloud tools, and building projects that improve performance, automation, and developer productivity.
 <p align="center">
-  <b>Always learning. Always evolving. 🚀</b>
+  <b>Always learning. Always evolving. ✨ 🚀</b>
 </p>
-. ✨  
+ 
 
 ---
 
