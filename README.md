@@ -102,5 +102,13 @@ I enjoy creating **end–to–end DevOps pipelines**, experimenting with new clo
   />
 </p>
 
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=aakansha113&label=Profile+Views&color=1B3A57&style=flat-round" 
+    style="transform: scale(1.8); margin-top: 15px;" 
+  />
+</p>
+
+
 
 
