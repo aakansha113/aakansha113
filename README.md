@@ -122,6 +122,32 @@ I enjoy creating **end–to–end DevOps pipelines**, experimenting with new clo
   />
 </p>
 
+## 🌐 Connect With Me  
+
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td align="center" width="150" style="border:none; padding:0;">
+      <a href="mailto:aakanshahujare@gmail.com">
+        <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" width="60" alt="Gmail" style="border:none; outline:none; background:none; display:block;" /><br>
+        <sub><b>Gmail</b></sub>
+      </a>
+    </td>
+
+   <td align="center" width="150" style="border:none; padding:0;">
+      <a href="https://linkedin.com/in/aakansha-hujare">
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="60" alt="LinkedIn" style="border:none; outline:none; background:none; display:block;" /><br>
+        <sub><b>LinkedIn</b></sub>
+      </a>
+    </td>
+
+  <td align="center" width="150" style="border:none; padding:0;">
+      <a href="https://github.com/aakansha113">
+        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="60" alt="GitHub" style="border:none; outline:none; background:none; display:block;" /><br>
+        <sub><b>GitHub</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
