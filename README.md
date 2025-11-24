@@ -50,22 +50,19 @@ I enjoy creating **end–to–end DevOps pipelines**, experimenting with new clo
   <img src="https://skillicons.dev/icons?i=grafana,prometheus,mysql,mongodb" height="50" />
 </p>
 
-
-
 ---
 
 ## 🐳 My Docker Images
 
 **Docker Hub: aakansha113**
 
-- [nginx-custom](https://hub.docker.com/r/aakansha113/nginx-custom)
-- [python-app](https://hub.docker.com/r/aakansha113/python-app)
-- [devops-tools](https://hub.docker.com/r/aakansha113/devops-tools)
+- [nginx-custom](https://hub.docker.com/r/aakansha113/portfolio)
+- [python-app](https://hub.docker.com/r/aakansha113/dockerized-ml-model)
+- [devops-tools](https://hub.docker.com/r/aakansha113/todo-docker-webapp)
 
 🔗 **View all images:** https://hub.docker.com/u/aakansha113
 
 ---
-
 
 ## 📊 GitHub Stats  
 <p align="center">
