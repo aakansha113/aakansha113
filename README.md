@@ -84,53 +84,49 @@ I enjoy creating **end–to–end DevOps pipelines**, experimenting with new clo
 ## 🌐 Connect With Me  
 
 <p align="center">
+
   <!-- Gmail -->
   <a href="mailto:aakanshahujare113@gmail.com" style="
     text-decoration:none;
     margin: 10px;
-    padding: 12px 18px;
+    padding: 10px 16px;
     border-radius: 12px;
     background: #0d1117;
     display: inline-block;
     transition: 0.3s;
-  " onmouseover="this.style.transform='scale(1.08)'; this.style.boxShadow='0px 0px 12px #1E90FF';"
+  " onmouseover="this.style.transform='scale(1.12)'; this.style.boxShadow='0px 0px 10px #1E90FF';"
      onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';">
-    <img src="https://img.icons8.com/ios-filled/50/1E90FF/gmail.png" width="38"/>
-    <br>
-    <sub style="color:#1E90FF; font-size:14px;">Email</sub>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="38"/>
   </a>
 
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/aakansha-hujare" style="
     text-decoration:none;
     margin: 10px;
-    padding: 12px 18px;
+    padding: 10px 16px;
     border-radius: 12px;
     background: #0d1117;
     display: inline-block;
     transition: 0.3s;
-  " onmouseover="this.style.transform='scale(1.08)'; this.style.boxShadow='0px 0px 12px #1E90FF';"
+  " onmouseover="this.style.transform='scale(1.12)'; this.style.boxShadow='0px 0px 10px #1E90FF';"
      onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';">
-    <img src="https://img.icons8.com/ios-filled/50/1E90FF/linkedin.png" width="38"/>
-    <br>
-    <sub style="color:#1E90FF; font-size:14px;">LinkedIn</sub>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="38"/>
   </a>
 
   <!-- GitHub -->
   <a href="https://github.com/aakansha113" style="
     text-decoration:none;
     margin: 10px;
-    padding: 12px 18px;
+    padding: 10px 16px;
     border-radius: 12px;
     background: #0d1117;
     display: inline-block;
     transition: 0.3s;
-  " onmouseover="this.style.transform='scale(1.08)'; this.style.boxShadow='0px 0px 12px #1E90FF';"
+  " onmouseover="this.style.transform='scale(1.12)'; this.style.boxShadow='0px 0px 10px #1E90FF';"
      onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';">
-    <img src="https://img.icons8.com/ios-glyphs/50/1E90FF/github.png" width="38"/>
-    <br>
-    <sub style="color:#1E90FF; font-size:14px;">GitHub</sub>
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="38"/>
   </a>
+
 </p>
 
 ---
