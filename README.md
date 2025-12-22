@@ -41,11 +41,15 @@ I enjoy creating **end–to–end DevOps pipelines**, experimenting with new clo
 
 ---
 
-### 🐳 Dockerized Portfolio Website
-- Containerized a personal portfolio website using **Docker**
-- Created and pushed Docker image to **Docker Hub**
-- Ran and tested containers on Linux environment
-- Practiced Dockerfile creation and image management  
+### 🐳 Dockerized ML Model
+-Containerized a machine learning model using Docker
+-Created a Dockerfile to package the ML application and dependencies
+-Built and tested Docker images locally on Linux
+-Pushed the Docker image to Docker Hub
+-Run the container to serve ML model predictions
+🔧 Tools: Docker, Python, Linux
+🔗 [Dockerized ML Mode ](https://github.com/aakansha113/Dockerized-ML-Model.git)
+
 ---
 
 ## 📚 Currently Learning  
@@ -57,7 +61,6 @@ I enjoy creating **end–to–end DevOps pipelines**, experimenting with new clo
 - Linux administration
 
 ---
---- 
 
 ## 🛠️ Tech Stack  
 
