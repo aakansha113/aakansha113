@@ -29,14 +29,21 @@ I enjoy creating **end–to–end DevOps pipelines**, experimenting with new clo
 ---
 ## 🔥 Featured Projects  
 
-### 🚀 CI/CD Pipeline (Practice Project)
-- Built a basic **CI/CD pipeline using Jenkins**
-- Integrated **GitHub** for source code management
-- Created **Docker images** for application deployment
-- Automated build and deployment process on **Linux**
-- Practicing Kubernetes deployment concepts  
+### 🚀 Portfolio (Practice Project)
+- Created a personal portfolio website using HTML, CSS, and JavaScript
 
-🔧 **Tools:** Jenkins, Docker, GitHub, Linux
+- Set up automated CI/CD with GitHub Actions to build and deploy changes
+
+- Deployed the website using AWS Amplify Hosting
+
+- Any push to the main branch triggers the CI/CD workflow for automatic deployment
+
+- Practiced DevOps-aligned project deployment and automation
+
+🔧 Tools: GitHub Actions, AWS Amplify, HTML, CSS, JavaScript, Git, AWS S3
+
+🔗 [Portfolio](https://github.com/aakansha113/portfolio1.git)
+
 
 ---
 
