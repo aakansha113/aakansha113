@@ -38,7 +38,7 @@ I enjoy creating **end–to–end DevOps pipelines**, experimenting with new clo
 - Practiced DevOps-aligned project deployment and automation
 - Learned CI/CD fundamentals such as build triggers, workflows, and automated deployment
 
-🔧 Tools: GitHub Actions, AWS Amplify, HTML, CSS, JavaScript, Git, AWS S3
+🔧 Tools: GitHub Actions, AWS Amplify, HTML, CSS, JavaScript, Git
 
 🔗 [Portfolio](https://github.com/aakansha113/portfolio1.git)
 
