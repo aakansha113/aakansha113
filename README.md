@@ -26,7 +26,6 @@ I enjoy creating **end–to–end DevOps pipelines**, experimenting with new clo
   <b>Always learning. Always evolving. ✨ 🚀</b>
 </p>
  
-
 ---
 ## 🔥 Featured Projects  
 
@@ -57,11 +56,10 @@ I enjoy creating **end–to–end DevOps pipelines**, experimenting with new clo
 ## 📚 Currently Learning  
 
 - Kubernetes (Pods, Deployments, Services)
-- Terraform (AWS EC2, VPC – basics)
-- AWS core services (EC2, IAM, S3)
+- Terraform (Advanced)
+- AWS cost optimization 
 - CI/CD best practices
-- Linux administration
-
+  
 ---
 
 ## 🛠️ Tech Stack  
