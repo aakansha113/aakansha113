@@ -8,7 +8,7 @@
 
 ## 🚀 About Me  
 
-I'm a passionate **DevOps fresher** focused on building reliable infrastructure,automating workflows, and creating smooth deployment pipelines.
+I'm a passionate **DevOps fresher** focused on building reliable infrastructure, automating workflows, and creating smooth deployment pipelines.
 
 I specialize in designing and maintaining **cloud-native, containerized, and highly available systems** using tools like Docker, Kubernetes, Terraform, and AWS.  
 
@@ -51,11 +51,11 @@ I enjoy creating **end–to–end DevOps pipelines**, experimenting with new clo
 - Created a Dockerfile to package the ML application and dependencies
 - Built and tested Docker images locally on Linux
 - Pushed the Docker image to Docker Hub
-- Run the container to serve ML model predictions
+- Ran the container to serve ML model predictions
   
 🔧 Tools: Docker, Python, Linux
 
-🔗 [Dockerized ML Mode ](https://github.com/aakansha113/Dockerized-ML-Model.git)
+🔗 [Dockerized ML Model](https://github.com/aakansha113/Dockerized-ML-Model.git)
   
 ---
 
