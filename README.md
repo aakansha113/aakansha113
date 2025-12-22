@@ -29,16 +29,14 @@ I enjoy creating **end–to–end DevOps pipelines**, experimenting with new clo
 ---
 ## 🔥 Featured Projects  
 
-### 🚀 Portfolio (Practice Project)
+### 🚀 Portfolio (Practice Project):
+
 - Created a personal portfolio website using HTML, CSS, and JavaScript
-
 - Set up automated CI/CD with GitHub Actions to build and deploy changes
-
 - Deployed the website using AWS Amplify Hosting
-
 - Any push to the main branch triggers the CI/CD workflow for automatic deployment
-
 - Practiced DevOps-aligned project deployment and automation
+- Learned CI/CD fundamentals such as build triggers, workflows, and automated deployment
 
 🔧 Tools: GitHub Actions, AWS Amplify, HTML, CSS, JavaScript, Git, AWS S3
 
@@ -47,7 +45,8 @@ I enjoy creating **end–to–end DevOps pipelines**, experimenting with new clo
 
 ---
 
-### 🐳 Dockerized ML Model
+### 🐳 Dockerized ML Model:
+
 - Containerized a machine learning model using Docker
 - Created a Dockerfile to package the ML application and dependencies
 - Built and tested Docker images locally on Linux
