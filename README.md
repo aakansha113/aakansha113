@@ -8,7 +8,7 @@
 
 ## 🚀 About Me  
 
-I'm a passionate **DevOps Engineer** focused on building reliable infrastructure, automating workflows, and creating smooth deployment pipelines.  
+I'm a passionate **DevOps fresher** focused on building reliable infrastructure,automating workflows, and creating smooth deployment pipelines.
 
 I specialize in designing and maintaining **cloud-native, containerized, and highly available systems** using tools like Docker, Kubernetes, Terraform, and AWS.  
 
@@ -97,7 +97,7 @@ I enjoy creating **end–to–end DevOps pipelines**, experimenting with new clo
 ## 📚 Currently Learning  
 
 - Kubernetes (Pods, Deployments, Services)
-- Terraform (Advanced)
+- Terraform (Intermediate)
 - AWS cost optimization 
 - CI/CD best practices
 
