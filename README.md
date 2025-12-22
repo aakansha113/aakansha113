@@ -57,15 +57,6 @@ I enjoy creating **end–to–end DevOps pipelines**, experimenting with new clo
 🔧 Tools: Docker, Python, Linux
 
 🔗 [Dockerized ML Mode ](https://github.com/aakansha113/Dockerized-ML-Model.git)
-
----
-
-## 📚 Currently Learning  
-
-- Kubernetes (Pods, Deployments, Services)
-- Terraform (Advanced)
-- AWS cost optimization 
-- CI/CD best practices
   
 ---
 
@@ -101,6 +92,14 @@ I enjoy creating **end–to–end DevOps pipelines**, experimenting with new clo
 - [To-Do-Web-app](https://hub.docker.com/r/aakansha113/todo-docker-webapp)
 
 🔗 **View all images:** https://hub.docker.com/u/aakansha113
+
+---
+## 📚 Currently Learning  
+
+- Kubernetes (Pods, Deployments, Services)
+- Terraform (Advanced)
+- AWS cost optimization 
+- CI/CD best practices
 
 ---
 
