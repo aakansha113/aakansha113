@@ -27,6 +27,36 @@ I enjoy creating **end–to–end DevOps pipelines**, experimenting with new clo
 </p>
  
 
+---
+## 🔥 Featured Projects  
+
+### 🚀 CI/CD Pipeline (Practice Project)
+- Built a basic **CI/CD pipeline using Jenkins**
+- Integrated **GitHub** for source code management
+- Created **Docker images** for application deployment
+- Automated build and deployment process on **Linux**
+- Practicing Kubernetes deployment concepts  
+
+🔧 **Tools:** Jenkins, Docker, GitHub, Linux
+
+---
+
+### 🐳 Dockerized Portfolio Website
+- Containerized a personal portfolio website using **Docker**
+- Created and pushed Docker image to **Docker Hub**
+- Ran and tested containers on Linux environment
+- Practiced Dockerfile creation and image management  
+---
+
+## 📚 Currently Learning  
+
+- Kubernetes (Pods, Deployments, Services)
+- Terraform (AWS EC2, VPC – basics)
+- AWS core services (EC2, IAM, S3)
+- CI/CD best practices
+- Linux administration
+
+---
 --- 
 
 ## 🛠️ Tech Stack  
